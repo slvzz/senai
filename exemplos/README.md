@@ -1,3 +1,0 @@
-# senai
-
-readme exemplar
